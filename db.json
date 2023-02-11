@@ -1,0 +1,43 @@
+{
+    "Apple": {
+        "1": {
+            "name": "Apple",
+            "price": 1000,
+            "currency": "USD"
+        },
+        "2": {
+            "name": "Apple",
+            "price": 1000,
+            "currency": "USD"
+        },
+        "3": {
+            "name": "Apple",
+            "price": 1000,
+            "currency": "USD"
+        },
+        "4": {
+            "name": "Apple",
+            "price": 1000,
+            "currency": "USD"
+        }
+    },
+    "Samsung": {
+        "1": {
+            "name": "Samrung",
+            "price": 1000,
+            "currency": "USD"
+        },
+        "2": {
+            "name": "Samrung",
+            "price": 1000,
+            "currency": "USD"
+        }
+    },
+    "Oppo": {
+        "1": {
+            "name": "Oppo",
+            "price": 1000,
+            "currency": "USD"
+        }
+    }
+}
